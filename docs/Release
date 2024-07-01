@@ -1,0 +1,12 @@
+Origin: Flobul
+Label: Flobul
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Package for Jailbreak plugin on Jeedom
+
+SHA256:
+ ea3dd8d23a8c81e02f2a24ef58533f4406903d4aa6466ae79b82e3541b6325e2 2407 Packages.bz2
+ 53735ff8b200f3bfc4a9474ec121b851df89dfa6ff36d4193667dc1126f3f4b3 2232 Packages.xz
